@@ -3,6 +3,11 @@
 ## Disclaimer: This is intended for developers who understand scripting.
 ## Disclaimer: I cannot guarantee its working and I do not intend to work further on this as it was just supposed to be a small example of using PyAutoGUI for people who're minting multiple NFTs without using Smart Contracts. Feel free to modify as per your use. Currently it only uses 1 property but I'm sure it's easy to add more properties with using a few more Tabs and Enters. 
 
+Main file: ***scripttoupload.py**
+
+The other py script is just what I used to list some of the NFTs, but it was bare minimum, so you can ignore it, or learn from it and make your own. It basically uses pre-opened tabs to list NFTs and closes them. You have to manually open all the tabs.
+
+
 The objective of the script is to provide functions to upload multiple files to OpenSea collection using Python + PyAutoGUI.
 [I have managed to mint 3001 NFTs on my secondary account using it (in 24 hours, with pauses).](https://opensea.io/collection/bringbacktheegg/)
 
