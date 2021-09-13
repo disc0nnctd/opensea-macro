@@ -19,6 +19,7 @@ Requires:
   - Sell button
   - Part of the upload button (Drag & drop file)
   - Part of the url bar with opensea.io/assets (This is used to confirm that the NFT is minted after the upload process)
+
 **Check assets folder for an idea on how the screenshots should look like**
 
 Some information:
