@@ -1,8 +1,9 @@
 # opensea-macro
-You might have read some artciles or Reddit posts about using "macros" to upload 10,000 NFTs to OpenSea without custom smart contracts. So I wrote an example and tested it.
+You might have read some articles or Reddit posts about using "macros" to upload 10,000 NFTs to OpenSea without custom smart contracts. So I wrote an example and tested it.
 
 ## Disclaimer: This is intended for developers who understand scripting.
 ## Disclaimer: I cannot guarantee its working and I do not intend to work further on this as it was just supposed to be a small example of using PyAutoGUI for people who're minting multiple NFTs without using Smart Contracts. Feel free to modify as per your use. Currently it only uses 1 property but I'm sure it's easy to add more properties with using a few more Tabs and Enters. 
+### Any interaction while running the script can mess it up. Check out PyAutoGUI FAILSAFE.
 
 Main file: ***scripttoupload.py***
 
