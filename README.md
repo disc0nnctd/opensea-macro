@@ -19,7 +19,7 @@ Requires:
   - Sell button
   - Part of the upload button (Drag & drop file)
   - Part of the url bar with opensea.io/assets (This is used to confirm that the NFT is minted after the upload process)
-
+**Check assets folder for an idea on how the screenshots should look like**
 
 Some information:
 - **I have used this script in half-window. So OpenSea collection window on the left and the script running on the right part of the screen (15.6 inches). Not sure if it'll work the same for everyone. It's highly recommended to test and modify.**
