@@ -14,6 +14,8 @@ The objective of the script is to provide functions to upload multiple files to 
 
 Requires: 
 - PyAutoGUI: `pip install pyautogui`
+- A `json` file containing index(filename) and properties of your NFTs (check `output.json` for reference).
+- A folder where all your generated NFTs are stored with filenames as a sequence (default 1.png, 2.png and so on).
 - You need to have the `create` url, for eg. `https://opensea.io/collection/collectionnamehere/assets/create`
 - You may or may not need to have all the images/screenshots that are to be used:
   - Collection Name
